@@ -1,0 +1,10 @@
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\bin\Debug\HexForms.exe
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\bin\Debug\HexForms.pdb
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\bin\Debug\HexForms.xml
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\obj\x86\Debug\HexForms.Resources.resources
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\obj\x86\Debug\HexForms.vbproj.GenerateResource.Cache
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\obj\x86\Debug\HexForms.exe
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\obj\x86\Debug\HexForms.xml
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\obj\x86\Debug\HexForms.pdb
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\obj\x86\Debug\HexForms.Form1.resources
+C:\Users\DNSAdmin\Documents\Visual Studio 2010\Projects\HexForms\HexForms\bin\Debug\HexForms.exe.config
