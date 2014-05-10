@@ -65,6 +65,36 @@ Namespace My
                 Me("HexagonType") = value
             End Set
         End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Pointy")>  _
+        Public ReadOnly Property Hexagon() As String
+            Get
+                Return CType(Me("Hexagon"),String)
+            End Get
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("0, 0")>  _
+        Public Property Hexagons() As Global.System.Drawing.Point
+            Get
+                Return CType(Me("Hexagons"),Global.System.Drawing.Point)
+            End Get
+            Set
+                Me("Hexagons") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("0, 0")>  _
+        Public ReadOnly Property Hexagonal() As Global.System.Drawing.Point
+            Get
+                Return CType(Me("Hexagonal"),Global.System.Drawing.Point)
+            End Get
+        End Property
     End Class
 End Namespace
 
